@@ -4,7 +4,7 @@
 
 ### Online
 
-1. Go to https://stackblitz.com/github/pepperstone/ps-currency-converter
+1. Go to https://stackblitz.com/github/alanrad/currency-converter
 
 ### Locally
 

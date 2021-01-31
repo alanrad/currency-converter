@@ -1,1 +1,1 @@
-https://github.com/pepperstone/ps-currency-converter
+https://github.com/alanrad/currency-converter
